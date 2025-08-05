@@ -28,4 +28,4 @@ This project is a classification analysis to predict whether a client will subsc
 
 ## 🔗 Colab Notebook
 
-👉 [Open in Colab]([https://colab.research.google.com/drive/1Tkv9eqeTzd8MkV2IZPEXUCWmMTg08yPB?usp=sharing](https://colab.research.google.com/drive/1Tkv9eqeTzd8MkV2IZPEXUCWmMTg08yPB?usp=sharing))
+👉 [Open in Colab](https://colab.research.google.com/drive/1Tkv9eqeTzd8MkV2IZPEXUCWmMTg08yPB?usp=sharing)
