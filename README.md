@@ -1,14 +1,14 @@
-### 🏦 Bank Marketing Term Deposit Prediction
+###  Bank Marketing Term Deposit Prediction
 
 This project is a classification analysis to predict whether a client will subscribe to a term deposit based on their personal and financial data.
 
-## 📊 Dataset
+##  Dataset
 
   - **Source**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
   - **Records**: 45,211
   - **Target**: `y` (1 = subscribed, 0 = not subscribed)
 
-## 🔧 Key Steps
+##  Key Steps
 
   - Loaded and preprocessed the data by converting categorical columns to numeric codes.
   - Dropped the 'duration' column, as it can lead to unrealistic model performance.
@@ -16,11 +16,11 @@ This project is a classification analysis to predict whether a client will subsc
   - Split the data into a 70% training set and a 30% testing set.
   - Trained a classification model.
 
-## 🤖 Model Used
+##  Model Used
 
   - **XGBoost Classifier**
 
-## 📁 Files
+##  Files
 
   - `BankMarketingCSV.csv` – The dataset
   - `your_project_notebook.ipynb` – Your full Colab notebook
@@ -28,4 +28,4 @@ This project is a classification analysis to predict whether a client will subsc
 
 ## 🔗 Colab Notebook
 
-👉 [Open in Colab](https://colab.research.google.com/drive/1Tkv9eqeTzd8MkV2IZPEXUCWmMTg08yPB?usp=sharing)
+ [Open in Colab](https://colab.research.google.com/drive/1Tkv9eqeTzd8MkV2IZPEXUCWmMTg08yPB?usp=sharing)
